@@ -1,5 +1,14 @@
-- 👋 Hi, I’m DevLVD
+# Hi there! I’m Dani 👋
 
+I’m a passionate and eager beginner developer with a focus on **web development**, coding, and learning new technologies. Currently, I’m exploring **full-stack development**, **front-end design**, and building projects that push me to grow as a programmer.
 
+As a **freelancer**, I love collaborating on projects that allow me to bring fresh ideas and solutions to life. I enjoy problem-solving and developing practical, **user-friendly applications**.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLVD&show_icons=true&theme=radical)
+---
+
+### 🛠️ **Tech Stack:**
+```html
+HTML, CSS, JavaScript  
+React, Node.js  
+Git, GitHub  
+WordPress, Web Design
