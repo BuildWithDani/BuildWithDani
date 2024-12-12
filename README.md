@@ -1,14 +1,5 @@
-# Hi there! I’m Dani 👋
+# 🌟 Hi there! I’m Dani 👋
 
-I’m a passionate and eager beginner developer with a focus on **web development**, coding, and learning new technologies. Currently, I’m exploring **full-stack development**, **front-end design**, and building projects that push me to grow as a programmer.
+Welcome to my corner of GitHub! I'm a passionate **beginner developer** diving into the world of **web development**, coding, and constantly learning new tech. 🚀 I'm currently leveling up my skills in **full-stack development** and **front-end design**, building projects that challenge me and help me grow. 💻✨
 
-As a **freelancer**, I love collaborating on projects that allow me to bring fresh ideas and solutions to life. I enjoy problem-solving and developing practical, **user-friendly applications**.
-
----
-
-### 🛠️ **Tech Stack:**
-```html
-HTML, CSS, JavaScript  
-React, Node.js  
-Git, GitHub  
-WordPress, Web Design
+As a **freelancer**, I enjoy collaborating on creative and impactful projects. I thrive on problem-solving and crafting **user-friendly** solutions that are both functional and beautiful. Let’s build something amazing together! 🔥 You can find me on [Upwork](https://www.upwork.com/) and [Fiverr](https://www.fiverr.com/) for freelance opportunities.
