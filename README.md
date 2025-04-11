@@ -41,13 +41,13 @@ Here’s what I’ve been working with and what excites me:
 
 ## 🚀 **Current Development Project** 🎨
 
-I am currently working on an **immersive 3D website** using the following technologies to enhance user experience and interactivity:
+I am currently working on a **Impressive Browser Application & Web Portal** using the following technologies to enhance user experience and interactivity:
 
+- **Electron**
 - **React**
-- **Next.js**
-- **Three.js**
-- **Tailwind CSS**
-- **React Three Fiber**
+- **Vite**
+- **Supabase**
+- **Stripe API**
 
 ## 🤝 **Why Connect with Me?**
 
