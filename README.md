@@ -62,7 +62,7 @@ Feel free to check out my projects below, or hit me up if you want to team up! L
 
 ## 📍 **Connect with Me:**
 
-- **Twitter:** [@BuildWithDani](https://twitter.com/BuildWithDani)
+- **X:** [@BuildWithDani](https://x.com/BuildWithDani)
 - **LinkedIn:** [Dani](https://www.linkedin.com/in/daniseyfu)
 - **Website:** [Portfolio](https://buildwithdani.com/)
 
