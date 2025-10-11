@@ -11,7 +11,7 @@
   <a href="https://x.com/BuildWithDani" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
   </a>
-  <a href="https://buildwithdani.com/" target="_blank">
+  <a href="https://buildwithdani.com/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website">
   </a>
   <a href="https://www.linkedin.com/in/dani-s-76794631a/" target="_blank">
