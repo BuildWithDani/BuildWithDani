@@ -1,5 +1,5 @@
 <h1 align="center">🌟 Hi there! I’m BuildWithDani 👋</h1>
-<h3 align="center">aka Dani</h3>
+<h3 align="center">aka Dr.Build</h3>
 
 <p align="center">Welcome to my GitHub! 🚀</p>
 
