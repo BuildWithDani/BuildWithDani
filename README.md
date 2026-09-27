@@ -1,23 +1,40 @@
-<h1 align="center">🌟 Hi there! I’m BuildWithDani 👋</h1>
-<h3 align="center">aka Dr.Build</h3>
+<div align="center">
+  <img src="./header.svg" width="100%" alt="Hey, I'm Dani — founder @ BuildWithDani" />
+</div>
 
-<p align="center">Welcome to my GitHub! 🚀</p>
+<br />
 
----
+<div align="center">
 
-<h3 align="center">📍 Connect with Me</h3>
+<b>I'm Dani, founder of <a href="https://github.com/bwd-studio">BuildWithDani</a>.</b><br />
+I don't write code by hand. I design it, direct it, and ship it with AI.<br />
+Every project boards as an idea and docks as something real.
 
-<p align="center">
-  <a href="https://x.com/BuildWithDani" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
-  </a>
-  <a href="https://buildwithdani.com/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website">
-  </a>
-  <a href="https://www.linkedin.com/in/danialeseyfu/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:contact@buildwithdani.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="./ticket.svg" width="100%" alt="Boarding pass — Dani, founder of BuildWithDani. From IDEA to SHIPPED." />
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://seyfu.dev"><img src="./port-site.svg" width="48%" alt="seyfu.dev" /></a>
+  <a href="https://x.com/heyseyfu"><img src="./port-x.svg" width="48%" alt="X @heyseyfu" /></a>
+  <br />
+  <a href="https://www.linkedin.com/in/danialeseyfu/"><img src="./port-linkedin.svg" width="48%" alt="LinkedIn" /></a>
+  <a href="mailto:dani@seyfu.dev"><img src="./port-email.svg" width="48%" alt="dani@seyfu.dev" /></a>
+</div>
+
+<br />
+
+### 📓 Logbook
+
+- [How I Added PostHog to My Studio Site (As a Vibe Coder)](https://seyfu.dev/blog)
+- [I Got Rejected by PostHog. Then Their Community Manager Reached Out.](https://seyfu.dev/blog)
+
+<div align="center">
+  <img src="./footer.svg" width="100%" alt="" />
+</div>
